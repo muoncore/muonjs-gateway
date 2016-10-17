@@ -19,8 +19,11 @@ Add this into your `docker-compose.yml`
     image: simplicityitself-muon-image.jfrog.io/muonjs-gateway:latest
     links:
       - rabbitmq
+    environment:
+      - MUON_URL=amqp://muon:microservices@rabbitmq
     ports:
       - "9898:9898"
 ```
+With MUON_URL pointing at the appropriate AMQP broker instance to use.
 
 Start it using `docker-compose up -d gateway`. You can then proceed to build a Muon.js client in the browser - https://github.com/muoncore/muon.js
