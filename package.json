@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/muoncore/corgi-email#readme",
   "dependencies": {
-    "muon-core": "7.1.6",
-    "muonjs": "7.1.6"
+    "muon-core": "7.1.7",
+    "muonjs": "7.1.7"
   }
 }
