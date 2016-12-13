@@ -1,4 +1,20 @@
+---
+layout: documentation
+---
+:title: Muon.js Gateway
+:date: 2015-01-05 11:40
+:comments: true
+:sharing: true
+:source-highlighter: pygments
+:toc: right
+:toc-title: Muon.js Gateway
+:toclevels: 6
 
-# Muonjs Gateway
+:includedir: .
+ifdef::env-doc[]
+:includedir: submodules/muonjs-gateway/doc
+endif::[]
+
+## Muon.js Gateway
 
 [NOTE] In progress...
