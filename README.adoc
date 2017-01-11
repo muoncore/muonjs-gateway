@@ -1,0 +1,18 @@
+
+## Muon.js Gateway
+
+This component enables you to run Muon.js services within a browser context and connect them to a full Muon back end network.
+
+Primarily, this allows you to build Muon based rich clients in the browser and make use of the richer protocols Muon provides.
+
+[[gateway]]
+.MuonJS Gateway
+image::doc/images/gateway.png[Streams]
+
+
+This project provides a websockets based gateway to enable Muon.js services running in the browser to
+access the back end Muon systems and interact with them using the rich protocol behaviour that Muon is designed to provide.
+
+The easiest way to get started is to use the muon-starter project, which will start an instance of muonjs-gateway for you.
+
+See the link:http://muoncore.io/submodules/muonjs-gateway/doc/index.html[documentation]
