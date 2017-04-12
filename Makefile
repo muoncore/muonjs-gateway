@@ -8,5 +8,5 @@ install:
 docker:
 	docker build . -t muonjs-gateway
 
-build:
+build: install
 	echo "No clean, needed for release"
