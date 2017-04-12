@@ -1,5 +1,8 @@
 # Change Log
 
+## [v2017.5](https://github.com/muoncore/muonjs-gateway/tree/v2017.5) (2017-04-12)
+[Full Changelog](https://github.com/muoncore/muonjs-gateway/compare/v2017.4...v2017.5)
+
 ## [v2017.4](https://github.com/muoncore/muonjs-gateway/tree/v2017.4) (2017-04-12)
 [Full Changelog](https://github.com/muoncore/muonjs-gateway/compare/v2017.3...v2017.4)
 
