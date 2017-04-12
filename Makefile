@@ -9,4 +9,4 @@ docker:
 	docker build . -t muonjs-gateway
 
 build:
-    echo "No clean, needed for release"
+	echo "No clean, needed for release"
