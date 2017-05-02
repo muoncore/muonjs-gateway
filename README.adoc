@@ -16,3 +16,5 @@ access the back end Muon systems and interact with them using the rich protocol 
 The easiest way to get started is to use the muon-starter project, which will start an instance of muonjs-gateway for you.
 
 See the link:http://muoncore.io/submodules/muonjs-gateway/doc/index.html[documentation]
+
+image:https://badges.greenkeeper.io/muoncore/muonjs-gateway.svg?token=b27de362bd29467790fd885de94e790060131f3f5531c31fffc0fa29bf0ef92a&ts=1493731199019[link="https://greenkeeper.io/"]
